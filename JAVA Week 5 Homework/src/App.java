@@ -6,19 +6,19 @@ public class App {
 		//10 & 11.
 		Logger logger = new AsteriskLogger();
 		
-		logger.log("Hello");
+		logger.log("Desmond");
 		
 		Logger logger1 = new AsteriskLogger();
 		
-		logger1.error("error");
+		logger1.error("Please relax this will be resolved soone");
 		
 		Logger logger2 = new SpacedLogger();
 		
-		logger2.log("Hello");
+		logger2.log("AppleWatch");
 		
 		Logger logger3 = new SpacedLogger();
 		
-		logger3.error("Error");
+		logger3.error("DESTROY");
 		
 	}
 
