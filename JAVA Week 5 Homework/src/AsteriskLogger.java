@@ -18,7 +18,7 @@ public class AsteriskLogger implements Logger {
 			}
 			System.out.println();
 			
-			System.out.println("***Error: " + "error" + "***");
+			System.out.println("***Error: " + error + "***");
 			for (int i = 0; i < 16 + error.length(); i++) {
 				System.out.print("*");
 			}
