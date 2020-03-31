@@ -10,7 +10,7 @@ public class App {
 		
 		Logger logger1 = new AsteriskLogger();
 		
-		logger1.error("Please relax this will be resolved soone");
+		logger1.error("Please relax this will be resolved soon");
 		
 		Logger logger2 = new SpacedLogger();
 		
